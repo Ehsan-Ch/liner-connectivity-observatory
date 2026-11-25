@@ -1,0 +1,2 @@
+* text=auto eol=lf
+/source-data/*.json -text
